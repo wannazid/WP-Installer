@@ -20,6 +20,19 @@ python installer.py / windows
 ![alt text](https://github.com/wannazid/WP-Installer/blob/master/IMG_20221015_133340.jpg)
 Change what's in the photo according to you, you don't have to change what you submit.
 (Ubah isi yang ada di foto sesuai kalian dan tidak usah mengubah yang submit)
+## List Site
+- http://site.com/wp-admin/install.php?step=2
+Use path /wp-admin/install.php?step=2
 
 # Feature
+- Fast use multithread
+- Save file : succes install, failed install and error install
+- Accurate
 
+# Information
+If wordpress is already installed and you enter it in the list using the path it will say successfully installed.
+(kalau wordpress sudah terinstall dan kamu memasukan nya di list menggunakan path nya maka akan tertulis berhasil install.)
+
+# Contact me
+WA > s.id/1l5cg
+Telegram > t.me/wanfivezero

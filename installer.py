@@ -26,10 +26,10 @@ class WPInstall:
 	def auto_wp_install(self):
 		try:
 			for _ in ' ':
-				title = 'Tes Site'
-				username = 'admin'
-				password = 'wangans5550'
-				email = 'wan505055@gmail.com'
+				title = 'Tes Site' # Ubah Sesuai Kalian
+				username = 'admin' # Ubah Sesuai Kalian
+				password = 'wangans5550' # Ubah Sesuai Kalian
+				email = 'wan505055@gmail.com' # Ubah Sesuai Kalin
 				sub = 'submit'
 				
 				uagent = self.agent()

@@ -10,11 +10,16 @@ git clone https://github.com/wannazid/WP-Installer
 cd WP-Installer
 ```
 ```bash
-pip install -r requirements.txt
+pip3 install requests
 ```
 ```bash
 python3 installer.py / Linux
 python installer.py / windows
 ```
 # How To Run
-![alt text]
+![alt text](https://github.com/wannazid/WP-Installer/blob/master/IMG_20221015_133340.jpg)
+Change what's in the photo according to you, you don't have to change what you submit.
+(Ubah isi yang ada di foto sesuai kalian dan tidak usah mengubah yang submit)
+
+# Feature
+

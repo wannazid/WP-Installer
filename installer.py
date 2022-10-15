@@ -30,7 +30,7 @@ class WPInstall:
 				title = 'Tes Site' # Ubah Sesuai Kalian
 				username = 'admin' # Ubah Sesuai Kalian
 				password = 'wangans5550' # Ubah Sesuai Kalian
-				email = 'wan505055@gmail.com' # Ubah Sesuai Kalin
+				email = 'wan505055@gmail.com' # Ubah Sesuai Kalian
 				sub = 'submit'
 				
 				uagent = self.agent()

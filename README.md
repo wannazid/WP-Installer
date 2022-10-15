@@ -16,4 +16,5 @@ pip install -r requirements.txt
 python3 installer.py / Linux
 python installer.py / windows
 ```
-
+# How To Run
+![alt text]

@@ -1,3 +1,4 @@
+# WP Installer by wannazid
 import requests, random
 from menu.main import *
 from concurrent.futures import ThreadPoolExecutor

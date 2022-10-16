@@ -29,7 +29,7 @@ class WPInstall:
 			for _ in ' ':
 				title = 'Tes Site' # Ubah Sesuai Kalian
 				username = 'admin' # Ubah Sesuai Kalian
-				password = 'wangans5550' # Ubah Sesuai Kalian
+				password = 'wannazid5550' # Ubah Sesuai Kalian
 				email = 'wan505055@gmail.com' # Ubah Sesuai Kalian
 				sub = 'submit'
 				
